@@ -1,0 +1,9 @@
+.DS_STORE
+/myenv/
+.env
+cookies.json
+/logs/
+/downloaded_files/
+/agentic_library/__pycache__/
+.pytest_cache/
+tests/__pycache__

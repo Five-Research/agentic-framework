@@ -1,0 +1,14 @@
+{
+  "test_user": {
+    "familiarity": 0.4511655011655012,
+    "sentiment": 0.0,
+    "last_interaction": 1744057627.98535,
+    "interaction_count": 4
+  },
+  "unknown": {
+    "familiarity": 0.6517607392607393,
+    "sentiment": 0.0,
+    "last_interaction": 1744099083.685884,
+    "interaction_count": 7
+  }
+}

@@ -1,0 +1,10 @@
+# Core dependencies for Agentic Framework
+openai>=1.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+loguru>=0.7.0
+
+# Optional dependencies
+seleniumbase>=4.15.0  # For web interaction capabilities
+pillow>=10.0.0  # For image processing
+fake-useragent>=1.3.0  # For web scraping

@@ -1,0 +1,83 @@
+[
+  {
+    "interaction_id": "view_1744057449_1",
+    "interaction_type": "view",
+    "user": "test_user",
+    "content": "This is an amazing development in AI technology!",
+    "timestamp": 1744057449.919042,
+    "sentiment": 0.0,
+    "engagement_score": 0.0
+  },
+  {
+    "interaction_id": "response_1744057449",
+    "interaction_type": "response",
+    "user": "unknown",
+    "content": "This is a test response from the agent.",
+    "timestamp": 1744057449.919408,
+    "sentiment": 0.0,
+    "engagement_score": 0.0
+  },
+  {
+    "interaction_id": "view_1744057627_1",
+    "interaction_type": "view",
+    "user": "test_user",
+    "content": "This is an amazing development in AI technology!",
+    "timestamp": 1744057627.98535,
+    "sentiment": 0.0,
+    "engagement_score": 0.0
+  },
+  {
+    "interaction_id": "response_1744057627",
+    "interaction_type": "response",
+    "user": "unknown",
+    "content": "This is a test response from the agent.",
+    "timestamp": 1744057627.9859142,
+    "sentiment": 0.0,
+    "engagement_score": 0.0
+  },
+  {
+    "interaction_id": "response_1744090071",
+    "interaction_type": "response",
+    "user": "unknown",
+    "content": "This is a test response from the agent.",
+    "timestamp": 1744090071.042179,
+    "sentiment": 0.0,
+    "engagement_score": 0.0
+  },
+  {
+    "interaction_id": "response_1744090168",
+    "interaction_type": "response",
+    "user": "unknown",
+    "content": "This is a test response from the agent.",
+    "timestamp": 1744090168.067838,
+    "sentiment": 0.0,
+    "engagement_score": 0.0
+  },
+  {
+    "interaction_id": "response_1744090426",
+    "interaction_type": "response",
+    "user": "unknown",
+    "content": "This is a test response from the agent.",
+    "timestamp": 1744090426.824453,
+    "sentiment": 0.0,
+    "engagement_score": 0.0
+  },
+  {
+    "interaction_id": "response_1744090449",
+    "interaction_type": "response",
+    "user": "unknown",
+    "content": "This is a test response from the agent.",
+    "timestamp": 1744090449.945163,
+    "sentiment": 0.0,
+    "engagement_score": 0.0
+  },
+  {
+    "interaction_id": "response_1744099083",
+    "interaction_type": "response",
+    "user": "unknown",
+    "content": "This is a test response from the agent.",
+    "timestamp": 1744099083.685884,
+    "sentiment": 0.0,
+    "engagement_score": 0.0
+  }
+]
