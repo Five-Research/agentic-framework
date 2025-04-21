@@ -2,8 +2,6 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/agentic-framework.svg)](https://pypi.org/project/agentic-framework/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/agentic-framework.svg)](https://pypi.org/project/agentic-framework/)
-[![License](https://img.shields.io/github/license/agentic-framework/agentic-framework.svg)](https://github.com/Five-Research/agentic-framework/blob/main/LICENSE)
-[![Documentation Status](https://readthedocs.org/projects/agentic-framework/badge/?version=latest)](https://agentic-framework.readthedocs.io/en/latest/?badge=latest)
 
 A domain-agnostic framework for adding emotion, memory, and learning capabilities to any LLM-based agent. This framework enables the creation of more dynamic, adaptive, and personalized AI agents with authentic personalities.
 
