@@ -14,7 +14,7 @@ A domain-agnostic framework for adding emotion, memory, and learning capabilitie
 
 ## Installation
 
-### From PyPI
+From PyPI - Not available at the moment
 
 ```bash
 pip install agentic-framework
